@@ -1,0 +1,63 @@
+.active, .btn:hover {
+  background-color: #666;
+  color: white;
+}
+.li
+{
+    float: left;
+    clear: left;
+}
+
+#numy{
+    display:block;
+    margin-top: 68px;
+    font-size: 30px;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 46px;
+    padding-bottom: 20px;
+}
+li{
+display: inline;
+    border-style: solid;
+    padding-right: 44px;
+    padding-top: 24px;
+    padding-bottom: 13px;
+    padding-left: 44px;
+    border-width: 1px;
+    margin-right: 10px;
+    font-size: 28px;
+    color: #72a850;
+    border-bottom-color: black !important;
+    border-color: white;
+}
+p{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 67px;
+}
+button{
+    font-family: 'Lato', sans-serif;
+    font-size: 25px !important;
+    padding: 20px;
+    margin:20px;
+}
+
+#right{
+    width:auto;
+    margin: 30px;
+}
+
+#master{
+    padding-top: 32px;
+    padding-left: 34px;
+    padding-right: 34px;
+}
+.swal-modal{
+    font-family: 'Lato', sans-serif; 
+}
+
